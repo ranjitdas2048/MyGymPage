@@ -44,6 +44,7 @@ body{
 .navbar{
     display: inline-block;
     color:white;
+    position: sticky;
 }
 .navbar li{
     display: inline-block;
